@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Lato";
+    src: url(../fonts/Lato-Regular.woff) format("woff"), url(../fonts/Lato-Regular.woff2) format("woff2"), url(../fonts/Lato-Regular.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Unbounded";
+    src: url(../fonts/Unbounded-Bold.woff) format("woff"), url(../fonts/Unbounded-Bold.woff2) format("woff2"), url(../fonts/Unbounded-Bold.ttf) format("truetype");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Baloo 2";
+    src: url(../font/baloo-2-v21-latin-regular.woff2) format("woff2"), url(../font/baloo-2-v21-latin-regular.woff) format(woff) format(truetype) ;
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
